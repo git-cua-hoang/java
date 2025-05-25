@@ -2,7 +2,8 @@ package day2;
 
 import java.util.Scanner;
 
-//Viết chương trình giả lập máy tính với các phép tính nhân chia cộng trừ 2 số
+//Viết chương trình giả lập máy tính với các phép tính nhân chia cộng trừ 2 số.
+// Test comment
 public class Assigment1 {
     public static void calculator(){
         do{
