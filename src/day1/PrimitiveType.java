@@ -1,3 +1,5 @@
+package day1;
+
 public class PrimitiveType {
     // Kiu dữ liệu nguyên thủy - Tham trị
     // Tham trị chỉ giá trị

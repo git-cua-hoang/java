@@ -1,3 +1,5 @@
+package day1;
+
 public class ClassRoom {
     //ten si so, thong tin cua student
     String name;

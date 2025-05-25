@@ -1,3 +1,5 @@
+package day1;
+
 public class Student {
     //ten,tuoi,chieu cao, can nang, hoc luc, gioi tinh
     String name;

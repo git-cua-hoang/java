@@ -1,3 +1,5 @@
+package day1;
+
 public class RefercenType {
     // Tham chiếu vị trí (vị trí ô nhớ ram)
     String name;
