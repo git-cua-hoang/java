@@ -101,9 +101,9 @@ public class LopHocView {
         System.out.println("Nhap si so: ");
         int siso = Integer.parseInt(scanner.nextLine());
 
-        boolean taoThanhCong = lopHocService.capNhatLopHoc(maLopHoc, tenLopHoc, siso);
+        boolean capNhatThanhCong = lopHocService.capNhatLopHoc(maLopHoc, tenLopHoc, siso);
 
-        if(taoThanhCong) {
+        if(capNhatThanhCong) {
             System.out.println("Cap nhat thanh cong");
         }else {
             System.out.println("Cap nhat that bai");
